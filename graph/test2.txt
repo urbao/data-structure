@@ -1,0 +1,13 @@
+connectedComponents
+addVertex 0
+addEdge 0 1 1
+addVertex 1
+addVertex 2
+addEdge 0 1 1
+addEdge 1 2 1
+addEdge 1 0 -2
+BellmanFord 0 2
+addEdge 1 0 2
+BellmanFord 0 2
+addVertex 3
+connectedComponents

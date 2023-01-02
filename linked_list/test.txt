@@ -1,0 +1,22 @@
+InsertNode a 0
+InsertNode a 1
+InsertNode p 2
+InsertNode p 3
+InsertNode p 4
+InsertNode l 5
+InsertNode e 6
+InsertNode z 7
+InsertNode w 8
+InsertNode x 0
+InsertNode y 0
+PrintList
+SearchWord apple
+DeleteNode 0
+PrintList
+SearchWord apple
+DeleteData p
+PrintList
+SearchWord apple
+NumOfOccur a
+MaxNumOfOccur
+PrintList

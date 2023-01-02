@@ -1,0 +1,11 @@
+addVertex 0
+addVertex 1
+addVertex 2
+addVertex 0
+addEdge 0 1 5
+addEdge 1 2 -4
+addEdge 0 2 4
+Dijkstra 0 2
+addEdge 0 1 2
+addEdge 1 2 1
+Dijkstra 0 2
