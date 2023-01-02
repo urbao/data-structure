@@ -1,1 +1,0 @@
-# maxflow_mincut implementation
