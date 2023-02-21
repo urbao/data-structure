@@ -1,12 +1,7 @@
 
 # 2022 NCKU Data Structure Homework
 
-A list collection of all Data Structure Course assigned Homework<br/><br/>
-
-
-
-![Logo](https://cdn-icons-png.flaticon.com/256/8637/8637660.png)
-
+### A list collection of all Data Structure Course assigned homework<br/><br/>
 
 ## Features
 
